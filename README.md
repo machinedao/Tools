@@ -4,7 +4,7 @@ some tools for daily work
 PythonTools/handle_feedback
 提交以前用来辅助回复用户投诉反馈的一些脚本，win7，office2010
 主要有：get_excel_from_db.py
-每天从数据库中直接获取一天的数据并套用excel模版生成件
+每天从数据库中直接获取一天的数据并套用excel模版生成文件
 filter.py 根据关键词智能分类常见投诉反馈
 do_mail_and_msg.py 用来根据模版调用outlook自动发送邮件或组织短信内容
 summary.py 和 weeklydetails.py用于每周汇总报告
