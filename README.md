@@ -1,7 +1,7 @@
 # Tools
 some tools for daily work
 
-handle_feedback
+PythonTools/handle_feedback
 提交以前用来辅助回复用户投诉反馈的一些脚本，win7，office2010
 主要有：get_excel_from_db.py
 每天从数据库中直接获取一天的数据并套用excel模版生成件
