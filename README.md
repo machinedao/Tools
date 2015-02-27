@@ -17,4 +17,4 @@ BashTools/DailySignin  测试每日签到，需要把服务器的时间改后一
 TODO 
 - do_mail_and_msg.py 太长了，应该分开组织
 - 可以加注释的地方，都可以考虑封函数，模块化
-- ws.Cells(r,13).Value，不宜函数中不宜如此使用变量常量
+- ws.Cells(r,13).Value，函数中不宜如此使用变量常量
